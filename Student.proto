@@ -1,0 +1,17 @@
+// Le fichier Student.proto pour déclarer la structure de données et les service de student objet
+
+// Pour déclarer l astructure de données d'étudiant
+syntax = "proto3";
+message Student {
+  int32 id = 1;
+  string name = 2;
+  string university = 3;
+  string study = 4;
+}
+
+// Pour déclarer le tableau des students
+message Students {
+  repeated Student students = 1;
+}
+
+// Services declaration

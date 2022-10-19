@@ -1,0 +1,24 @@
+<0>
+    <id>1</id>
+    <name>issam</name>
+    <university>UM5</university>
+    <study>Data</study>
+</0>
+<1>
+    <id>2</id>
+    <name>rachid</name>
+    <university>UM5</university>
+    <study>IOT</study>
+</1>
+<2>
+    <id>3</id>
+    <name>hassan</name>
+    <university>EMSI</university>
+    <study>Network</study>
+</2>
+<3>
+    <id>4</id>
+    <name>achraf</name>
+    <university>UM5</university>
+    <study>Maths</study>
+</3>
